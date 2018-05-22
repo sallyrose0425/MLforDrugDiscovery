@@ -14,7 +14,7 @@ This document contains instructions for running all scripts in this repository t
 * Pocket Descriptors 
   * Run PDB file through modified PRANK
 * Drug Descriptors 
-  * Run the compound library through the Dragon Software
+  * Run the compound library through the Dragon Software. Using dragon7gui, create a script for running from the command line by selecting File > scriptwizard. Run the script by calling $ dragon7shell -s script.drs
 * Binding Descriptors 
   * Prepare all proteins and drug compounds for docking with VinaMPI
   * Perform docking with VinaMPI
